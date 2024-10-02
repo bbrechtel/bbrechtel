@@ -1,0 +1,5 @@
+- Hi, I’m @bbrechtel
+- I’m interested in object oriented programming, data analytics
+- I’m currently learning MySQL, C++ and considering transitioning to a Linux OS. 
+- I’m looking to collaborate on any kind of basic simulation program in C++. Particularly business simulations.  
+- How to reach me: bbrechtel02@gmail.com.
